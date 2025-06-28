@@ -16,6 +16,8 @@
 - The game features 21 levels across 3 unique environments.
 - Every 7th level introduces a boss and new location.
 
+Demonstration of the gameplay is available via this link: https://drive.google.com/file/d/1xoIjnuODbA1D0cgqyNQzD_cmEpsgxgjR/view?usp=drive_link 
+
 ## 🎮 Features
 
 - Strategic drag-and-drop gameplay
