@@ -42,4 +42,7 @@ Demonstration of the gameplay is available via this link: https://drive.google.c
 This project was previously published on mobile platforms (Android and iOS), but has since been unpublished by company decision.  
 All rights to the game assets and distribution remain with the original developer and/or company.  
 This repository is for **portfolio and educational purposes only** and is not intended for commercial redistribution.
+
+## 🖼️ Screenshots
+![Alt text](relative%20path/to/Picture1.jpg?raw=true "Title")
  
