@@ -44,5 +44,8 @@ All rights to the game assets and distribution remain with the original develope
 This repository is for **portfolio and educational purposes only** and is not intended for commercial redistribution.
 
 ## 🖼️ Screenshots
-![Alt text](relative%20path/to/Picture1.jpg?raw=true "Title")
+![Screenshot 1](Picture1.png)
+![Screenshot 2](Picture2.png)
+![Screenshot 3](Picture3.png)
+![Screenshot 4](Picture4.png)
  
