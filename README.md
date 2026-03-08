@@ -31,10 +31,11 @@ Demonstration of the gameplay is available via this link: https://drive.google.c
 ## 🛠️ Technologies
 
 - **Engine:** Unity (C#)
-- **Architecture:** Modular components using SOLID principles
+- **Architecture:** Zenject (Dependency Injection) for creating modular, SOLID-compliant code architecture
+- **Asset Management:** Addressables for efficient asset loading and memory management
 - **Async:** Used `UniTask` for async UI/scene transitions
 - **Audio:** Integrated SFX feedback using Unity Audio system
-- **Tools:** Unity Profiler, Visual Studio, Git
+- **Tools:** Unity Profiler, Rider, Git
 
 
 ## 📄 License
